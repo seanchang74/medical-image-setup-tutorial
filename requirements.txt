@@ -1,0 +1,8 @@
+dicom2nifti==2.4.9
+nibabel==5.1.0
+numpy==1.26.2
+packaging==23.2
+pydicom==2.4.3
+python-gdcm==3.0.22
+scipy==1.11.4
+SimpleITK==2.3.1
